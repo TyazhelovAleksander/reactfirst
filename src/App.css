@@ -12,20 +12,7 @@
   grid-gap: 10px;
 }
 
-.header{
-  grid-area: h;
-  background-color: greenyellow;
-}
 
-.header img{
-  width: 50px;
-}
 
-.nav{
-  grid-area: n;
-  background-color:grey;
-}
 
-.content{
-  grid-area: c;
-}
+
